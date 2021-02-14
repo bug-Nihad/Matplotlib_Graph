@@ -1,0 +1,39 @@
+name: nxviz
+channels:
+- conda-forge
+- defaults
+- ericmjl
+dependencies:
+- python=3.6
+- matplotlib-base
+- networkx
+- numpy
+- pip
+- setuptools
+- pycodestyle
+- pydocstyle
+- black
+- click
+- pandas
+- coverage
+- pytest-cov
+- sphinx
+- cython
+- palettable
+- hypothesis
+- pytest
+- cryptography
+- pyyaml
+- twine
+- seaborn
+- pipreqs
+- isort
+- bumpversion
+- more-itertools
+- jupyterlab
+- seaborn
+- pyyaml
+- pylint
+- pydocstyle
+- pip:
+    - sphinxcontrib-fulltoc

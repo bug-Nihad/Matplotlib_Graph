@@ -1,0 +1,13 @@
+pytest
+hypothesis
+cryptography
+pandas
+matplotlib
+palettable
+networkx
+setuptools
+numpy == 1.19.3
+PyYAML
+sphinxcontrib-fulltoc
+seaborn
+more-itertools
