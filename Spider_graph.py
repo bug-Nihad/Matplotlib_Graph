@@ -13,4 +13,5 @@ def spider_graph(df):
     fig.show()
 
 df = pd.read_csv('estonia-passenger-list.csv')
-spider_graph(df)
+if __name__ == '__main__':
+    spider_graph(df)
